@@ -1,0 +1,25 @@
+
+{
+  "id": "/body-signal/",
+  "name": "Body Signal",
+  "short_name": "Body Signal",
+  "description": "Understand your body's signals",
+  "start_url": "/body-signal/",
+  "scope": "/body-signal/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#0f766e",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
